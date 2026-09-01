@@ -21,7 +21,7 @@ This end-to-end machine learning project builds a **Sales & Demand Forecasting S
 ## 🗂️ Repository Structure
 
 ```
-FUTURE_ML_01/
+FUTURE_ML_01
 │
 ├── 📂 data/
 │   ├── raw/                    # Original dataset files
